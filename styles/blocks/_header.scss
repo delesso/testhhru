@@ -1,0 +1,14 @@
+
+
+.header{
+    padding: 1rem;
+
+    &__title {
+        text-align: center;
+        --color-white: #fff;
+        color: var(--color-white);
+        font-weight: 500;
+        font-family: sans-serif;
+        font-size: 24px;
+    }
+}
